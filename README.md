@@ -58,4 +58,4 @@ git clone https://github.com/your-username/social-media-analytics-app.git
 npm install
 
 # Start the development server
-npm start
+npm run dev
