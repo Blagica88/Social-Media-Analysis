@@ -1,0 +1,17 @@
+export const socialMediaData = [
+  { platform: "Facebook", users: 3030 },
+  { platform: "YouTube", users: 2491 },
+  { platform: "WhatsApp", users: 2000 },
+  { platform: "Instagram", users: 2000 },
+  { platform: "WeChat (Weixin)", users: 1327 },
+  { platform: "TikTok", users: 1218 },
+  { platform: "Facebook Messenger", users: 1036 },
+  { platform: "Telegram", users: 800 },
+  { platform: "Snapchat", users: 750 },
+  { platform: "Douyin (抖音)", users: 743 },
+  { platform: "Kuaishou (快手)", users: 673 },
+  { platform: "Twitter", users: 666 },
+  { platform: "Sina Weibo (新浪微博)", users: 599 },
+  { platform: "QQ (腾讯QQ)", users: 571 },
+  { platform: "Pinterest", users: 465 },
+];
