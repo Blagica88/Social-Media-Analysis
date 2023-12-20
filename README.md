@@ -52,7 +52,7 @@ Follow these steps to set up and run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/social-media-analytics-app.git
+git clone https://github.com/Blagica88/Social-Media-Analysis.git
 
 # Install dependencies
 npm install
